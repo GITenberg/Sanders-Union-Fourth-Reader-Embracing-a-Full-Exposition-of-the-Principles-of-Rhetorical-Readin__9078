@@ -1,0 +1,27 @@
+_repo: Sanders-Union-Fourth-Reader-Embracing-a-Full-Exposition-of-the-Principles-of-Rhetorical-Readin__9078
+creator:
+  author:
+    agent_name: Sanders, Charles W. (Charles Walton)
+    alias: Sanders, Charles Walton
+    birthdate: 1805
+    deathdate: 1889
+    gutenberg_agent_id: '2967'
+    url: http://www.gutenberg.org/2009/agents/2967
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+title: "Sanders' Union Fourth Reader\r\nEmbracing a Full Exposition of the Principles\
+  \ of Rhetorical Reading; with Numerous Exercises for Practice, Both in Prose and\
+  \ Poetry, Various in Style, and Carefully Adapted to the Purposes of Teaching in\
+  \ Schools of Every Grade"
+url: http://www.gutenberg.org/ebooks/9078

@@ -1,4 +1,8 @@
 _repo: Sanders-Union-Fourth-Reader-Embracing-a-Full-Exposition-of-the-Principles-of-Rhetorical-Readin__9078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sanders, Charles W. (Charles Walton)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2967'
     url: http://www.gutenberg.org/2009/agents/2967
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9078#Sanders-Union-Fourth-Reader-Embracing-a-Full-Exposition-of-the-Principles-of-Rhetorical-Readin_
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text

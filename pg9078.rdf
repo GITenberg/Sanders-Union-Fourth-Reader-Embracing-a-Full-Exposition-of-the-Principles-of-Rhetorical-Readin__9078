@@ -1,175 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF xml:base="http://www.gutenberg.org/"
-  xmlns:dcam="http://purl.org/dc/dcam/"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:dcterms="http://purl.org/dc/terms/"
   xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
 >
   <pgterms:ebook rdf:about="ebooks/9078">
     <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078.txt">
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684884</dcterms:extent>
-        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.kindle.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1312331</dcterms:extent>
         <dcterms:format>
-          <rdf:Description rdf:nodeID="N957f182955634b6c9864a176a1ff113e">
-            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
-            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
-          </rdf:Description>
-        </dcterms:format>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:56:20</dcterms:modified>
-      </pgterms:file>
-    </dcterms:hasFormat>
-    <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.txt.utf-8">
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684854</dcterms:extent>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-05T02:49:45.773420</dcterms:modified>
-        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
-        <dcterms:format>
-          <rdf:Description rdf:nodeID="Nd84edb50f0a849e8bbead470a0e50c0b">
-            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
-            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
-          </rdf:Description>
-        </dcterms:format>
-      </pgterms:file>
-    </dcterms:hasFormat>
-    <dcterms:subject>
-      <rdf:Description rdf:nodeID="N0cd91a6771b540a5a8e0973200143f6f">
-        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
-        <rdf:value>Readers</rdf:value>
-      </rdf:Description>
-    </dcterms:subject>
-    <dcterms:license rdf:resource="license"/>
-    <dcterms:subject>
-      <rdf:Description rdf:nodeID="N7ce01e71dd07454a95482b02b3624632">
-        <rdf:value>PE</rdf:value>
-        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
-      </rdf:Description>
-    </dcterms:subject>
-    <dcterms:rights>Public domain in the USA.</dcterms:rights>
-    <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.kindle.noimages">
-        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1312454</dcterms:extent>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-05T02:49:56.427933</dcterms:modified>
-        <dcterms:format>
-          <rdf:Description rdf:nodeID="N27cda1e3187b45a49d1f5f3238532510">
-            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          <rdf:Description rdf:nodeID="N40b1fc385f1841f99e325305a2770c73">
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
-          </rdf:Description>
-        </dcterms:format>
-      </pgterms:file>
-    </dcterms:hasFormat>
-    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
-    <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.epub.noimages">
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320098</dcterms:extent>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-05T02:49:48.697278</dcterms:modified>
-        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
-        <dcterms:format>
-          <rdf:Description rdf:nodeID="N1661105ed88742d5a362ed0f26d09930">
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-05T01:40:41.353524</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319987</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-05T01:40:37.485606</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N34aa79bd76b6472c831a31a2cd53571d">
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
       </pgterms:file>
     </dcterms:hasFormat>
-    <dcterms:creator>
-      <pgterms:agent rdf:about="2009/agents/2967">
-        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1805</pgterms:birthdate>
-        <pgterms:name>Sanders, Charles W. (Charles Walton)</pgterms:name>
-        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1889</pgterms:deathdate>
-        <pgterms:alias>Sanders, Charles Walton</pgterms:alias>
-      </pgterms:agent>
-    </dcterms:creator>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Ne7d90f7ac861436c955fa4a6bc994b88">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PE</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
     <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078-h/9078-h.htm">
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">855759</dcterms:extent>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:57:06</dcterms:modified>
-        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078-h.zip">
         <dcterms:format>
-          <rdf:Description rdf:nodeID="N9e9dd3c4c6e64528bf56d256904c5ca5">
+          <rdf:Description rdf:nodeID="Ncfa1a3dc94cb4403a03d6a1f29dd5617">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N31042b2593d54411a98db0c57fe11e11">
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296427</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:57:40</dcterms:modified>
       </pgterms:file>
     </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/2967">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1889</pgterms:deathdate>
+        <pgterms:name>Sanders, Charles W. (Charles Walton)</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1805</pgterms:birthdate>
+        <pgterms:alias>Sanders, Charles Walton</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nb155b6c2f93845d29562427fedec1dd2">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
     <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078.zip">
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278469</dcterms:extent>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078.txt">
         <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684884</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:56:20</dcterms:modified>
         <dcterms:format>
-          <rdf:Description rdf:nodeID="Na5859c0cb2704160b037fa9a30c66f97">
-            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
-            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
-          </rdf:Description>
-        </dcterms:format>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:57:40</dcterms:modified>
-        <dcterms:format>
-          <rdf:Description rdf:nodeID="Nc361c4faa0474fbcba41b18a11bfa48e">
-            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          <rdf:Description rdf:nodeID="N178f3b6a77fe4d898f2eddbd11faaed9">
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
       </pgterms:file>
     </dcterms:hasFormat>
     <pgterms:bookshelf>
-      <rdf:Description rdf:nodeID="N2a85b60393294946ab537252cd99c1e3">
-        <rdf:value>Children's Instructional Books</rdf:value>
+      <rdf:Description rdf:nodeID="N4ea3e928a9084a2dbcd18534c60f3e47">
         <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Children's Instructional Books</rdf:value>
       </rdf:Description>
     </pgterms:bookshelf>
-    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-10-01</dcterms:issued>
     <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.kindle.images">
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-05T02:49:52.627108</dcterms:modified>
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1312458</dcterms:extent>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.kindle.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-05T01:40:44.746489</dcterms:modified>
         <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1312327</dcterms:extent>
         <dcterms:format>
-          <rdf:Description rdf:nodeID="Naae792255cd54bc8b44ba204b4658a64">
+          <rdf:Description rdf:nodeID="Na7205d21b16c4f7a813c0d19dc0475b3">
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
       </pgterms:file>
     </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.txt.utf-8">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">684854</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-05T01:40:36.662621</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9674d42f009a4e7eb897e684fa3bc005">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
     <dcterms:language>
-      <rdf:Description rdf:nodeID="N9433063bc0584a33a506143c51591458">
+      <rdf:Description rdf:nodeID="N010ea513b8d2400cad6f4863259534ef">
         <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
       </rdf:Description>
     </dcterms:language>
-    <dcterms:title>Sanders' Union Fourth Reader&#13;
-Embracing a Full Exposition of the Principles of Rhetorical Reading; with Numerous Exercises for Practice, Both in Prose and Poetry, Various in Style, and Carefully Adapted to the Purposes of Teaching in Schools of Every Grade</dcterms:title>
     <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078-h.zip">
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">319987</dcterms:extent>
         <dcterms:format>
-          <rdf:Description rdf:nodeID="Neac5f6e7bb674c89b0b801ce40b74213">
-            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          <rdf:Description rdf:nodeID="N47000b31caea48858c954e232e9f6bdd">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
         <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-05T01:40:37.891594</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Sanders' Union Fourth Reader&#13;
+Embracing a Full Exposition of the Principles of Rhetorical Reading; with Numerous Exercises for Practice, Both in Prose and Poetry, Various in Style, and Carefully Adapted to the Purposes of Teaching in Schools of Every Grade</dcterms:title>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078-h/9078-h.htm">
         <dcterms:format>
-          <rdf:Description rdf:nodeID="Na2ba921a325542a9bd8ac79510c17908">
+          <rdf:Description rdf:nodeID="Nebe22e6001ce467197582f1577550fa3">
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=us-ascii</rdf:value>
           </rdf:Description>
         </dcterms:format>
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296427</dcterms:extent>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:57:40</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">855759</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:57:06</dcterms:modified>
       </pgterms:file>
     </dcterms:hasFormat>
-    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</pgterms:downloads>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-10-01</dcterms:issued>
     <dcterms:hasFormat>
-      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.epub.images">
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320098</dcterms:extent>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-05T02:49:47.863307</dcterms:modified>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/9078/9078.zip">
         <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-16T22:57:40</dcterms:modified>
         <dcterms:format>
-          <rdf:Description rdf:nodeID="Nc9af66e93ed842f18d6f036ad9451c8f">
-            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          <rdf:Description rdf:nodeID="Na471fbad02da42c7bb77fd3d0811c67e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">278469</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N98461b7c6e464984903158cd19215bc1">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
@@ -177,26 +175,28 @@ Embracing a Full Exposition of the Principles of Rhetorical Reading; with Numero
     </dcterms:hasFormat>
     <dcterms:hasFormat>
       <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/9078.rdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11515</dcterms:extent>
         <dcterms:isFormatOf rdf:resource="ebooks/9078"/>
-        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11501</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:06:55.326379</dcterms:modified>
         <dcterms:format>
-          <rdf:Description rdf:nodeID="N07392a1abdcb4ac78b7d5b74ef7f0ffe">
+          <rdf:Description rdf:nodeID="Nc2a4f0d8f3944135a701f11f953cc7a4">
             <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
             <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
           </rdf:Description>
         </dcterms:format>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-02-04T05:40:07.649736</dcterms:modified>
       </pgterms:file>
     </dcterms:hasFormat>
-    <dcterms:type>
-      <rdf:Description rdf:nodeID="N036f337ecfee4a4f8ab36ea3c9d65e45">
-        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
-        <rdf:value>Text</rdf:value>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N1f6d6262685e4e6fa06c783dc4d44e69">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Readers</rdf:value>
       </rdf:Description>
-    </dcterms:type>
+    </dcterms:subject>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
   </pgterms:ebook>
   <cc:Work rdf:about="">
-    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
     <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
             http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
   </cc:Work>
